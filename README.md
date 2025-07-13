@@ -36,6 +36,6 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 # BiteSpeed-FE
 
-VERCEL LINK [https://vercel.com/prajwals-projects-f720f3ee/bite-speed-fe](https://bite-speed-fe-ivory.vercel.app/)
+VERCEL LINK [https://bite-speed-fe-ivory.vercel.app/](https://bite-speed-fe-ivory.vercel.app/)
 
 
